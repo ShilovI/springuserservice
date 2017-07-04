@@ -1,0 +1,1 @@
+insert into users (firstname, lastname, birthdate, email, password) values ('Teat', 'FromIdea', '1900-01-01', 'johnsmith@test.com', 'p@ssw0rd');
